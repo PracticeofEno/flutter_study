@@ -22,3 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 - 재사용 가능한 부분을 위젯으로 만드는 방법
 - code Action 버튼을 통해서 자동완성 기능이 유용함
 
+## Transform
+- Transform은 어떤 위젯에 대해서만 주위에 영향을 주지 않고 사이즈를 키우거나 변형,위치이동 등에 사용됨
+- clipBegavior : overflow되는 부분 어떻게 처리할건지
+
